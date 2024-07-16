@@ -42,15 +42,7 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: https://journals.scholarsportal.info/details/22295089/v12inone/nfp_dlmracswp.xml
-# url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: ''
-url_arxiv: ''
-url_supplement: ''
 url_poster: 'https://digitalpathologyassociation.org/_data/media/351/10082020-022720.pdf'
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
