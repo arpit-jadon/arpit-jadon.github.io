@@ -82,7 +82,7 @@ education:
     summary: |
       GPA: 9.28/10.0
       
-    # Courses included:
+    # Courses included:fbio
     # - lorem ipsum dolor sit amet, consectetur adipiscing elit
     # - lorem ipsum dolor sit amet, consectetur adipiscing elit
     # - lorem ipsum dolor sit amet, consectetur adipiscing elit
