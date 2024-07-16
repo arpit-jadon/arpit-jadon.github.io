@@ -67,8 +67,9 @@ education:
     date_end: 2023-04-23
     summary: |
       GPA: 1.5/5.0
-    button:
-      text: 'Road Scene Understanding With Realistic Synthetic Data'
+      Thesis: 'Road Scene Understanding With Realistic Synthetic Data'
+    # button:
+    #   text: 'Read Thesis'
       # url: 'https://example.com'
       # Courses included:
       # - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -81,10 +82,10 @@ education:
     summary: |
       GPA: 9.28/10.0
       
-      # Courses included:
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    # Courses included:
+    # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    # - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Computer Vision Engineer
     company_name: Energy Robotics
