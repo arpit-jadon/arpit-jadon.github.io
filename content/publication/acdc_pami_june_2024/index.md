@@ -9,7 +9,7 @@ authors:
   - Wim Abbeloos
   - Daniel Olmeda Reino
   - Luc Van Gool
-  - and Dengxin Dai
+  - Dengxin Dai
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
