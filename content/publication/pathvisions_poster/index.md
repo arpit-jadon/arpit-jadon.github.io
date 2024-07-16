@@ -2,6 +2,13 @@
 title: "Deep Learning Based Mitoses Recognition and Concordance Study With Pathologists"
 authors:
 - admin
+- Sripad Joshi
+- Harish Prabhala
+- Vikas Ramachandra
+- Aditya Kulkarni
+- Swarnalatha Gowrishankar
+- Lata Kini
+
 date: "2020-04-07T00:00:00Z"
 doi: ""
 
@@ -21,7 +28,7 @@ abstract: Deep learning based mitosis detection in H&E biopsies can benefit in t
 respect to the algorithm and inter-observer variation.
 
 # # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Large Language Models
