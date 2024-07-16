@@ -43,6 +43,8 @@ featured: false
 url_pdf: https://people.ee.ethz.ch/~csakarid/ACDC_v2/ACDC_The_Adverse_Conditions_Dataset_with_Correspondences_for_Robust_Semantic_Driving_Scene_Perception-Sakaridis+Wang+Li+Zurbruegg+Jadon+Abbeloos+Olmeda_Reino+Van_Gool+Dai-arXiv_2024.pdf
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: 'https://acdc.vision.ee.ethz.ch/'
+url_arxiv: 'https://arxiv.org/abs/2104.13395'
+url_supplement: 'https://people.ee.ethz.ch/~csakarid/ACDC_v2/Supplement-ACDC_The_Adverse_Conditions_Dataset_with_Correspondences_for_Robust_Semantic_Driving_Scene_Perception-Sakaridis+Wang+Li+Zurbruegg+Jadon+Abbeloos+Olmeda_Reino+Van_Gool+Dai-arXiv_2024.pdf'
 url_poster: ''
 url_project: ''
 url_slides: ''
