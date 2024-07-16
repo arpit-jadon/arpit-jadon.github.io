@@ -27,8 +27,8 @@ publication_short: ""
 abstract: Deep learning based mitosis detection in H&E biopsies can benefit in the early diagnosis and prognosis of cancer. Most of the approaches published so far have utilized publicly available ideal datasets, which usually come from expensive WSI scanners or microscopes. Moreover, very few validation studies have compared the efficacy of these algorithms with respect to inter-pathologist variability. In this study we compare the performance of multiple pathologists with
 respect to the algorithm and inter-observer variation.
 
-# # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# Summary. An optional shortened abstract.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Large Language Models
