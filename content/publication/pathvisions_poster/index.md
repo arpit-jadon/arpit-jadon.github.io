@@ -33,7 +33,7 @@ respect to the algorithm and inter-observer variation.
 tags:
 - Large Language Models
 
-featured: true
+featured: false
 
 links:
 - name: Custom Link
